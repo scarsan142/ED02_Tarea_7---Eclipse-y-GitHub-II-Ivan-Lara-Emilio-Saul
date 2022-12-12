@@ -7,6 +7,7 @@ public class Prog {
 		// TODO Auto-generated method stub
 		Scanner leerradio = new Scanner(System.in);
 		int radio;
+		double volumen;
 		System.out.println("Introduce el radio de la esfera");
 		radio=leerradio.nextInt();
 		}
